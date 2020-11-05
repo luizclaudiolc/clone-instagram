@@ -48,6 +48,7 @@ body {
 
 .profile-photo img {
     height: 6rem;
+    cursor: pointer;
 }
 
 .group {
@@ -67,6 +68,7 @@ body {
 
 .instagram-logo {
     height: 3rem;
+    cursor: pointer;
 }
 
 .profile-photo {
@@ -95,6 +97,7 @@ body {
 
 .link-blue {
     color: #0095f6;
+    cursor: pointer;
 }
 
 .get-the-app {
@@ -121,7 +124,7 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('../imagens/app-store-botao.png')
+    background-image: url('../imagens/app-store-botao.png');
 }
 
 .app-download:nth-child(2) {
