@@ -1,5 +1,15 @@
-# Olá galera!!! #
+# Fala galera...
 
-Nesse projeto procurei reproduzir um clone responsivo da página de login do instagram.
+Nesse projeto sugerido pelo bootcamp da everis disponibilizado pela DIO, buscamos reproduzir a página de login do instagram.
 
-Foi legal para fixar os conhecimentos sobre flexbox e suas propriedades, e também pude praticar conceitos de responsividade que são fundamentais para atualmente. 
+Utilizei conceitos de posicionamento com flexbox, responsividade e várias outras propriedades do css.
+
+### Tecnologias
+- HTML
+- CSS
+
+### Segue uma imagem do projeto
+
+[![Tela](https://ibb.co/jfw1ZwT "Tela")](https://ibb.co/jfw1ZwT "Tela")
+
+> Login Instagram
