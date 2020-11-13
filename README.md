@@ -10,6 +10,6 @@ Utilizei conceitos de posicionamento com flexbox, responsividade e várias outra
 
 ### Segue uma imagem do projeto
 
-[![Tela](https://ibb.co/jfw1ZwT "Tela")](https://ibb.co/jfw1ZwT "Tela")
+<img src="https://github.com/luizclaudiolc/clone-instagram/blob/master/imagens/instagram.jpg" width="90%">
 
 > Login Instagram
